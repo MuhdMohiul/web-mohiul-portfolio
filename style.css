@@ -6,8 +6,7 @@ h1{
 h2{ 
     font-size: 40px;
     p{
-        color: dimgray;
-    }
+        color: dimgray;     }
 }
 .name-heighlight{
     color: rgb(116, 116, 116);
@@ -36,7 +35,7 @@ section{
     font-weight: 700;
 
 }
-.dream-area{
+.dream-Web{
     background-image: url(imges/dream-bg.png) ;
     background-repeat: no-repeat;
     background-position: right;
