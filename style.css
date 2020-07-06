@@ -10,13 +10,13 @@ h2{
         color: dimgray;     }
 }
 .orange-heighlight{
-    color: rgb(116, 116, 116);
+    color: orange;
 }
 .half-width{
     width: 40%;
     float: left;
     margin-left: 5%;
-    padding-left: 1%;
+    padding-left: 2%;
 }
 .half-width img{ 
     width:100%;
